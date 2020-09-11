@@ -3,6 +3,7 @@ import os
 import json
 import pandas
 import yaml
+import time
 from collections import Counter
 
 CACHE_DIR = 'cache_stars_json'
@@ -45,6 +46,7 @@ def write_markdown(known_users, stars, filename="README.md"):
 		print("\nThe list of starred projects is based on these GitHub users.\n", file=f)
 		for username, realname in known_users.items():
 			print(f"- [{realname} ({username})](https://www.github.com/{username})", file=f)
+		print(time.strftime("\n\nLast updated %B %d, %Y"), file=f)
 		print(HOWTO, file=f)
 
 README = """\

@@ -76,6 +76,9 @@ The list of starred projects is based on these GitHub users.
 - [Dan Flynn (dflynn-volpe)](https://www.github.com/dflynn-volpe)
 
 
+Last updated September 11, 2020
+
+
 	This document is auto-generated, do not edit it directly.  Instead,
 	edit the list of users in `known-users.yml`, and then run the 
 	`starcounter.py` Python script.
