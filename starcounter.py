@@ -35,17 +35,23 @@ def count_stars(known_users, threshold=2):
 	zephyr_stars = zephyr_stars[zephyr_stars >= threshold].sort_values(ascending=False)
 	return zephyr_stars
 
-def write_markdown(stars, filename="README.md"):
+def write_markdown(known_users, stars, filename="README.md"):
 	with open(filename, 'wt') as f:
 		print(README, file=f)
+		print("## Zephyr Starred Projects", file=f)
 		for name, n in stars.items():
 			print(f"- [{name}](https://www.github.com/{name}) ({n} stars)", file=f)
+		print("\n\n## Zephyr Users", file=f)
+		print("\nThe list of starred projects is based on these GitHub users.\n", file=f)
+		for username, realname in known_users.items():
+			print(f"- [{realname} ({username})](https://www.github.com/{username})", file=f)
+		print(HOWTO, file=f)
 
 README = """\
 # Zephyr Stars
 
 These projects have been "starred" multiple times by the 
-members of the [Zephyr Foundation](https://zephyrtransport.org).  
+members of the [Zephyr Foundation](https://zephyrtransport.org).
 Stars mean different things to different people, from "this is a 
 useful tool for work" to "I want to be able to find this again" 
 to "my buddy made a fundraising website".  But it is expected 
@@ -54,8 +60,15 @@ number of analytic transportation professionals) will tend to be
 in the first category.  
 """
 
+HOWTO = """
+
+	This document is auto-generated, do not edit it directly.  Instead,
+	edit the list of users in `known-users.yml`, and then run the 
+	`starcounter.py` Python script.
+"""
+
 if __name__ == '__main__':
 	known_users = load_known_users()
 	cache_known_users(known_users)
 	stars = count_stars(known_users)
-	write_markdown(stars)
+	write_markdown(known_users, stars)

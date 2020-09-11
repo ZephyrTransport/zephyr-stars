@@ -1,7 +1,7 @@
 # Zephyr Stars
 
 These projects have been "starred" multiple times by the 
-members of the [Zephyr Foundation](https://zephyrtransport.org).  
+members of the [Zephyr Foundation](https://zephyrtransport.org).
 Stars mean different things to different people, from "this is a 
 useful tool for work" to "I want to be able to find this again" 
 to "my buddy made a fundraising website".  But it is expected 
@@ -9,6 +9,7 @@ that GitHub projects high on this list (i.e. starred by a large
 number of analytic transportation professionals) will tend to be 
 in the first category.  
 
+## Zephyr Starred Projects
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (6 stars)
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (5 stars)
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)
@@ -41,3 +42,41 @@ in the first category.
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (2 stars)
+
+
+## Zephyr Users
+
+The list of starred projects is based on these GitHub users.
+
+- [Jeff Newman (jpn--)](https://www.github.com/jpn--)
+- [Ben Stabler (bstabler)](https://www.github.com/bstabler)
+- [David Ory (DavidOry)](https://www.github.com/DavidOry)
+- [Billy Charlton (billyc)](https://www.github.com/billyc)
+- [Lisa Zorn (lmz)](https://www.github.com/lmz)
+- [Kyle Ward (dkyleward)](https://www.github.com/dkyleward)
+- [Elizabeth Sall (e-lo)](https://www.github.com/e-lo)
+- [Marty Milkovits (mmilkovits)](https://www.github.com/mmilkovits)
+- [Leta Huntsinger (leta-huntsinger)](https://www.github.com/leta-huntsinger)
+- [Mike Mahut (mike-mahut)](https://www.github.com/mike-mahut)
+- [Clint Daniels (danielsclint)](https://www.github.com/danielsclint)
+- [Timothy Brathwaite (timothyb0912)](https://www.github.com/timothyb0912)
+- [Charles Gorugantula (cgkcmo)](https://www.github.com/cgkcmo)
+- [Jonathan Ehrlich (JonathanEhrlichMC)](https://www.github.com/JonathanEhrlichMC)
+- [Pedro Camargo (pedrocamargo)](https://www.github.com/pedrocamargo)
+- [Krishnan Viswanathan (krishnan-viswanathan)](https://www.github.com/krishnan-viswanathan)
+- [Andrew Rohne (AndrewTheTM)](https://www.github.com/AndrewTheTM)
+- [Greg Macfarlane (gregmacfarlane)](https://www.github.com/gregmacfarlane)
+- [Suzanne Childress (Ennazus)](https://www.github.com/Ennazus)
+- [Josie Kressner (josiekre)](https://www.github.com/josiekre)
+- [Julie Dunbar (jkpdunbar)](https://www.github.com/jkpdunbar)
+- [Gregory Erhardt (gregerhardt)](https://www.github.com/gregerhardt)
+- [Rosella Picado (rosellapicado)](https://www.github.com/rosellapicado)
+- [Scott Ramming (sramming)](https://www.github.com/sramming)
+- [Mohamed Salah Mahmoud (moh-salah)](https://www.github.com/moh-salah)
+- [Dan Flynn (dflynn-volpe)](https://www.github.com/dflynn-volpe)
+
+
+	This document is auto-generated, do not edit it directly.  Instead,
+	edit the list of users in `known-users.yml`, and then run the 
+	`starcounter.py` Python script.
+
