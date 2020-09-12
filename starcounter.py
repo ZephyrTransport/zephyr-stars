@@ -25,6 +25,7 @@ def cache_known_users(known_users):
 
 def count_stars(known_users, threshold=2):
 	stars = Counter()
+	descriptions = {}
 	for username in known_users:
 		local_f = os.path.join(CACHE_DIR, f'stars.{username}.json')
 		if os.path.exists(local_f):
@@ -32,16 +33,20 @@ def count_stars(known_users, threshold=2):
 				userstars = json.load(f)
 			for s in userstars:
 				stars[s.get('full_name')] += 1
+				descriptions[s.get('full_name')] = s.get('description')
 	zephyr_stars = pandas.Series(stars)
 	zephyr_stars = zephyr_stars[zephyr_stars >= threshold].sort_values(ascending=False)
-	return zephyr_stars
+	return zephyr_stars, descriptions
 
-def write_markdown(known_users, stars, filename="README.md"):
+def write_markdown(known_users, stars, descriptions, filename="README.md"):
 	with open(filename, 'wt') as f:
 		print(README, file=f)
 		print("## Zephyr Starred Projects", file=f)
 		for name, n in stars.items():
-			print(f"- [{name}](https://www.github.com/{name}) ({n} stars)", file=f)
+			print(f"- [{name}](https://www.github.com/{name}) ({n} stars)  ", file=f)
+			desc = descriptions.get(name)
+			if desc:
+				print(f"  {desc}", file=f)
 		print("\n\n## Zephyr Users", file=f)
 		print("\nThe list of starred projects is based on these GitHub users.\n", file=f)
 		for username, realname in known_users.items():
@@ -72,5 +77,5 @@ HOWTO = """
 if __name__ == '__main__':
 	known_users = load_known_users()
 	cache_known_users(known_users)
-	stars = count_stars(known_users)
-	write_markdown(known_users, stars)
+	stars, descriptions = count_stars(known_users)
+	write_markdown(known_users, stars, descriptions)
