@@ -8,6 +8,8 @@ from collections import Counter
 
 CACHE_DIR = 'cache_stars_json'
 
+os.makedirs(CACHE_DIR, exist_ok=True)
+
 def load_known_users(filename="known-users.yml"):
 	with open(filename, 'rt') as f:
 		known_users = yaml.safe_load(f)
@@ -35,6 +37,7 @@ def count_stars(known_users, threshold=2):
 				stars[s.get('full_name')] += 1
 				descriptions[s.get('full_name')] = s.get('description')
 	zephyr_stars = pandas.Series(stars)
+	zephyr_stars = zephyr_stars.sort_index() # for list order stability
 	zephyr_stars = zephyr_stars[zephyr_stars >= threshold].sort_values(ascending=False)
 	return zephyr_stars, descriptions
 
