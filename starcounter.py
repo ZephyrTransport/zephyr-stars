@@ -36,9 +36,12 @@ def count_stars(known_users, threshold=2):
 			for s in userstars:
 				stars[s.get('full_name')] += 1
 				descriptions[s.get('full_name')] = s.get('description')
-	zephyr_stars = pandas.Series(stars)
-	zephyr_stars = zephyr_stars.sort_index() # for list order stability
-	zephyr_stars = zephyr_stars[zephyr_stars >= threshold].sort_values(ascending=False)
+	zephyr_stars = pandas.Series(stars, name='starcount')
+	zephyr_stars = zephyr_stars[zephyr_stars >= threshold]
+	zephyr_stars = zephyr_stars.reset_index(drop=False) # for list order stability
+	zephyr_stars['projectname'] = zephyr_stars['index'].str.lower()
+	zephyr_stars = zephyr_stars.sort_values(['starcount','projectname'], ascending=(False,True))
+	zephyr_stars = zephyr_stars.set_index('index').loc[:,'starcount']
 	return zephyr_stars, descriptions
 
 def write_markdown(known_users, stars, descriptions, filename="README.md"):
