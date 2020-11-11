@@ -7,6 +7,7 @@ import time
 from collections import Counter
 
 CACHE_DIR = 'cache_stars_json'
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 
 os.makedirs(CACHE_DIR, exist_ok=True)
 
@@ -16,11 +17,13 @@ def load_known_users(filename="known-users.yml"):
 	return known_users
 
 def cache_known_users(known_users):
+	headers = {"Authorization": "token " + GITHUB_TOKEN}
 	for username in known_users:
 		local_f = os.path.join(CACHE_DIR, f'stars.{username}.json')
 		url = f'https://api.github.com/users/{username}/starred'
+		request = urllib.request.Request(url, headers=headers)
 		if not os.path.exists(local_f):
-			with urllib.request.urlopen(url) as response:
+			with urllib.request.urlopen(request) as response:
 				html = response.read()
 				with open(local_f, 'wb') as f:
 					f.write(html)
@@ -85,3 +88,5 @@ if __name__ == '__main__':
 	cache_known_users(known_users)
 	stars, descriptions = count_stars(known_users)
 	write_markdown(known_users, stars, descriptions)
+	with open("README.md", 'r') as fin:
+		print(fin.read())
