@@ -34,8 +34,6 @@ in the first category.
   Larch: a Python tool for choice modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
   How to use Python for a variety of transportation modeling tasks
-- [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (3 stars)  
-  A Python package of tools to support population synthesizers
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (3 stars)  
@@ -61,6 +59,8 @@ in the first category.
 - [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
   Map matching
+- [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (2 stars)  
+  A Python package of tools to support population synthesizers
 - [ropensci/stplanr](https://www.github.com/ropensci/stplanr) (2 stars)  
   Sustainable transport planning with R
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
