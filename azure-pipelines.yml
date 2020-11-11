@@ -23,3 +23,9 @@ steps:
     #pythonInterpreter: # Optional
     #workingDirectory: # Optional
     #failOnStderr: false # Optional
+
+- script: cat README.md
+  displayName: 'Display Readme'
+
+- publish: $(System.DefaultWorkingDirectory)/README.md
+  artifact: README
