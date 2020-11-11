@@ -1,0 +1,54 @@
+schedules:
+- cron: "0 0 * * *"
+  displayName: Nightly build
+  branches:
+    include:
+    - master
+  always: true
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- script: git checkout master
+  displayName: 'Checkout Branch'
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.8' 
+    addToPath: true 
+
+- script: pip install pandas pyyaml
+  displayName: 'Install dependencies'
+
+- task: PythonScript@0
+  inputs:
+    scriptSource: 'filePath'
+    scriptPath: 'starcounter.py'
+    #arguments: # Optional
+    #pythonInterpreter: # Optional
+    #workingDirectory: # Optional
+    #failOnStderr: false # Optional
+
+- script: cat STARS.md
+  displayName: 'Display Readme'
+
+- publish: $(System.DefaultWorkingDirectory)/STARS.md
+  artifact: STARS
+
+- script: |
+    git config --global user.email "info@zephyrtransport.org"
+    git config --global user.name "Zephyr Foundation"
+    git status
+    git config --list
+    git ls-files
+    git add STARS.md
+    git commit -m "Update stars [skip ci]"
+    git push -v --tags origin master
+  displayName: 'Git Push'

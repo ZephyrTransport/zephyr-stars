@@ -44,7 +44,7 @@ def count_stars(known_users, threshold=2):
 	zephyr_stars = zephyr_stars.set_index('index').loc[:,'starcount']
 	return zephyr_stars, descriptions
 
-def write_markdown(known_users, stars, descriptions, filename="README.md"):
+def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 	with open(filename, 'wt') as f:
 		print(README, file=f)
 		print("## Zephyr Starred Projects", file=f)
@@ -58,7 +58,7 @@ def write_markdown(known_users, stars, descriptions, filename="README.md"):
 		for username, realname in known_users.items():
 			print(f"- [{realname} ({username})](https://www.github.com/{username})", file=f)
 		print(time.strftime("\n\nLast updated %B %d, %Y"), file=f)
-		print(HOWTO, file=f)
+		#print(HOWTO, file=f)
 
 README = """\
 # Zephyr Stars
