@@ -1,4 +1,10 @@
-
+schedules:
+- cron: "0 0 * * *"
+  displayName: Nightly build
+  branches:
+    include:
+    - master
+  always: true
 
 trigger:
 - master
@@ -10,8 +16,8 @@ steps:
 - checkout: self
   persistCredentials: true
 
-- script: git checkout azure-pipelines
-  displayName: 'Checkout Brach'
+- script: git checkout master
+  displayName: 'Checkout Branch'
 
 - task: UsePythonVersion@0
   inputs:
@@ -38,11 +44,11 @@ steps:
 
 - script: |
     git config --global user.email "info@zephyrtransport.org"
-    git config --global user.name "Zephyr Transport"
+    git config --global user.name "Zephyr Foundation"
     git status
     git config --list
     git ls-files
     git add STARS.md
     git commit -m "Update stars [skip ci]"
-    git push -v --tags origin azure-pipelines
+    git push -v --tags origin master
   displayName: 'Git Push'
