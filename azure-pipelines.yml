@@ -9,6 +9,10 @@ pool:
 steps:
 - checkout: self
   persistCredentials: true
+
+- script: git checkout azure-pipelines
+  displayName: 'Checkout Brach'
+
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '3.8' 
@@ -40,5 +44,5 @@ steps:
     git ls-files
     git add STARS.md
     git commit -m "Update stars [skip ci]"
-    git push origin azure-pipelines
+    git push -v --tags origin azure-pipelines
   displayName: 'Git Push'
