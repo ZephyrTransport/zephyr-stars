@@ -33,6 +33,8 @@ steps:
   artifact: STARS
 
 - script: |
+    git config --global user.email "info@zephyrtransport.org"
+    git config --global user.name "Zephyr Transport"
     git add STARS.md
     git commit -m "Update stars [skip ci]"
     git push origin azure-pipelines
