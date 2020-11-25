@@ -14,10 +14,10 @@ in the first category.
   An Open Platform for Activity-Based Travel Modeling
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (6 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
+- [tfresource/website](https://www.github.com/tfresource/website) (6 stars)  
+  Travel Forecasting Resource - website reboot
 - [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (5 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
-- [tfresource/website](https://www.github.com/tfresource/website) (5 stars)  
-  Travel Forecasting Resource - website reboot
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
@@ -34,6 +34,8 @@ in the first category.
   Larch: a Python tool for choice modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
   How to use Python for a variety of transportation modeling tasks
+- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
+  Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (3 stars)  
@@ -57,8 +59,6 @@ in the first category.
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
   R interface to D3 chord diagrams
 - [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
-- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
-  Map matching
 - [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (2 stars)  
   A Python package of tools to support population synthesizers
 - [ropensci/stplanr](https://www.github.com/ropensci/stplanr) (2 stars)  
@@ -141,4 +141,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated November 24, 2020
+Last updated November 25, 2020
