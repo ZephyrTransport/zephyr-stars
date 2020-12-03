@@ -16,7 +16,9 @@ industry professionals to be included, please submit a *pull request*
 to add names (both real names and GitHub user names, as shown)
 in the `known-users.yml` file.
 
-The tabulated list of stars is shown in the `STARS.md` file.  
-Do not edit that file directly; it is regenerated nightly based on
-the GitHub activity of the known users.  Feel free to peruse
-the `starcounter.py` script to see how we do it.
+The tabulated list of stars is shown in the `STARS.md` file, and that
+file is automatically synced to the
+["stars" page on the Zephyr website](https://zephyrtransport.org/stars/)
+Do not edit the `STARS.md` file directly; it is regenerated nightly based on
+the GitHub activity of the known users listed in `known-users.yml`.  
+Feel free to peruse the `starcounter.py` script to see how we do it.
