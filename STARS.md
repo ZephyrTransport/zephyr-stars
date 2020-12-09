@@ -65,8 +65,6 @@ in the first category.
   Sustainable transport planning with R
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
-- [swcarpentry/good-enough-practices-in-scientific-computing](https://www.github.com/swcarpentry/good-enough-practices-in-scientific-computing) (2 stars)  
-  Minimalist alternatives to "best practices" paper
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (2 stars)  
   Python library for discrete choice modeling
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
@@ -141,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 08, 2020
+Last updated December 09, 2020
