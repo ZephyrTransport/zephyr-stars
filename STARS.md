@@ -16,10 +16,10 @@ in the first category.
   VisionEval Model System and Framework (formerly RSPM Framework)
 - [tfresource/website](https://www.github.com/tfresource/website) (6 stars)  
   Travel Forecasting Resource - website reboot
-- [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (5 stars)  
-  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (4 stars)  
+  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (4 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 09, 2020
+Last updated December 10, 2020
