@@ -10,7 +10,7 @@ number of analytic transportation professionals) will tend to be
 in the first category.  
 
 ## Zephyr Starred Projects
-- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (6 stars)  
+- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (7 stars)  
   An Open Platform for Activity-Based Travel Modeling
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (6 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
@@ -18,6 +18,8 @@ in the first category.
   Travel Forecasting Resource - website reboot
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
+  An Open Platform for Population Synthesis
 - [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (4 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
@@ -28,8 +30,6 @@ in the first category.
   Open Matrix (OMX)
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
-- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (3 stars)  
-  An Open Platform for Population Synthesis
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 18, 2020
+Last updated December 19, 2020
