@@ -69,8 +69,6 @@ in the first category.
   Python library for discrete choice modeling
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
   Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
-- [wsp-sag/Lasso](https://www.github.com/wsp-sag/Lasso) (2 stars)  
-  Python package of utilities for Network Wrangler
 - [wsp-sag/tcadr](https://www.github.com/wsp-sag/tcadr) (2 stars)  
   A library to read/write TransCAD binary files in R.
 
@@ -139,4 +137,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 22, 2020
+Last updated December 23, 2020
