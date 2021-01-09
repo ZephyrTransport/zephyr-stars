@@ -12,10 +12,10 @@ in the first category.
 ## Zephyr Starred Projects
 - [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (7 stars)  
   An Open Platform for Activity-Based Travel Modeling
+- [tfresource/website](https://www.github.com/tfresource/website) (7 stars)  
+  Travel Forecasting Resource - website reboot
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (6 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
-- [tfresource/website](https://www.github.com/tfresource/website) (6 stars)  
-  Travel Forecasting Resource - website reboot
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
@@ -26,14 +26,14 @@ in the first category.
   A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (4 stars)  
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
+  How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
   Open Matrix (OMX)
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
-- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
-  How to use Python for a variety of transportation modeling tasks
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
   Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
@@ -137,4 +137,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 08, 2021
+Last updated January 09, 2021
