@@ -46,6 +46,8 @@ in the first category.
   A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 - [bstabler/TransportationNetworks](https://www.github.com/bstabler/TransportationNetworks) (2 stars)  
   Transportation Networks for Research
+- [dabreegster/abstreet](https://www.github.com/dabreegster/abstreet) (2 stars)  
+  A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
   Attempting to make the Deep Learning Book easier to understand.
 - [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
@@ -65,6 +67,8 @@ in the first category.
   Sustainable transport planning with R
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
+- [simonw/datasette](https://www.github.com/simonw/datasette) (2 stars)  
+  An open source multi-tool for exploring and publishing data
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (2 stars)  
   Python library for discrete choice modeling
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
@@ -137,4 +141,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 15, 2021
+Last updated January 16, 2021
