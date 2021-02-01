@@ -40,14 +40,14 @@ in the first category.
   Public release version of the VisionEval framework
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (3 stars)  
   General Modeling Network Specification
+- [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
+  A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
   aequilibrae - Python package for transportation modeling
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
   A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 - [bstabler/TransportationNetworks](https://www.github.com/bstabler/TransportationNetworks) (2 stars)  
   Transportation Networks for Research
-- [dabreegster/abstreet](https://www.github.com/dabreegster/abstreet) (2 stars)  
-  A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
   Attempting to make the Deep Learning Book easier to understand.
 - [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 31, 2021
+Last updated February 01, 2021
