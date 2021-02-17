@@ -32,14 +32,14 @@ in the first category.
   Open Matrix (OMX)
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
+- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
+  General Modeling Network Specification
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
   Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
-- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (3 stars)  
-  General Modeling Network Specification
 - [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
   A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated February 16, 2021
+Last updated February 17, 2021
