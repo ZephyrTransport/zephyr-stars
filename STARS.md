@@ -16,12 +16,12 @@ in the first category.
   Travel Forecasting Resource - website reboot
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (5 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
+- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (5 stars)  
+  General Modeling Network Specification
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
   An Open Platform for Population Synthesis
-- [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (4 stars)  
-  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (4 stars)  
@@ -32,10 +32,12 @@ in the first category.
   Open Matrix (OMX)
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
-- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
-  General Modeling Network Specification
+- [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (3 stars)  
+  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
+- [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
+  Multi-Agent Transport Simulation
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
   Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
@@ -56,8 +58,6 @@ in the first category.
   Open Matrix API for R
 - [jpn--/arrowmatrix](https://www.github.com/jpn--/arrowmatrix) (2 stars)  
   A matrix file format
-- [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (2 stars)  
-  Multi-Agent Transport Simulation
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
   R interface to D3 chord diagrams
 - [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated March 24, 2021
+Last updated March 25, 2021
