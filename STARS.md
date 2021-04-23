@@ -30,6 +30,8 @@ in the first category.
   How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
   Open Matrix (OMX)
+- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (4 stars)  
+  Map matching
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
 - [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (3 stars)  
@@ -38,8 +40,6 @@ in the first category.
   Larch: a Python tool for choice modeling
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
-- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
-  Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
 - [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated April 22, 2021
+Last updated April 23, 2021
