@@ -63,8 +63,6 @@ in the first category.
 - [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
 - [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (2 stars)  
   A Python package of tools to support population synthesizers
-- [ropensci/stplanr](https://www.github.com/ropensci/stplanr) (2 stars)  
-  Sustainable transport planning with R
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (2 stars)  
@@ -139,4 +137,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated June 01, 2021
+Last updated June 02, 2021
