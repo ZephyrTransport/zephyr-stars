@@ -24,8 +24,6 @@ in the first category.
   An Open Platform for Population Synthesis
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
-- [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (4 stars)  
-  OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
@@ -36,6 +34,8 @@ in the first category.
   Exploratory Modeling and Analysis Tool
 - [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (3 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
+- [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
+  OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
@@ -60,6 +60,7 @@ in the first category.
   A matrix file format
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
   R interface to D3 chord diagrams
+- [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
 - [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
 - [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (2 stars)  
   A Python package of tools to support population synthesizers
@@ -137,4 +138,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated July 09, 2021
+Last updated July 10, 2021
