@@ -14,10 +14,10 @@ in the first category.
   An Open Platform for Activity-Based Travel Modeling
 - [tfresource/website](https://www.github.com/tfresource/website) (6 stars)  
   Travel Forecasting Resource - website reboot
+- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (6 stars)  
+  General Modeling Network Specification
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (5 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
-- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (5 stars)  
-  General Modeling Network Specification
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
@@ -138,4 +138,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated August 06, 2021
+Last updated August 07, 2021
