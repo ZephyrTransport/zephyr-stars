@@ -16,8 +16,6 @@ in the first category.
   Travel Forecasting Resource - website reboot
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (5 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
-- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (5 stars)  
-  General Modeling Network Specification
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
@@ -32,6 +30,8 @@ in the first category.
   Map matching
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
+- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
+  General Modeling Network Specification
 - [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (3 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated September 07, 2021
+Last updated September 08, 2021
