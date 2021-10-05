@@ -32,7 +32,7 @@ in the first category.
   Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
-- [adb40/chandra-bot](https://www.github.com/adb40/chandra-bot) (3 stars)  
+- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (3 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated October 04, 2021
+Last updated October 05, 2021
