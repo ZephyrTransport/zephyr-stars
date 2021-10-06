@@ -26,8 +26,6 @@ in the first category.
   How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
   Open Matrix (OMX)
-- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (4 stars)  
-  Map matching
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
@@ -40,6 +38,8 @@ in the first category.
   Larch: a Python tool for choice modeling
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
+- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
+  Map matching
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
 - [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
@@ -67,6 +67,8 @@ in the first category.
   A Python package of tools to support population synthesizers
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
+- [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
+  Making API calls to the StreetLight data platform using the R language
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (2 stars)  
   Python library for discrete choice modeling
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
@@ -139,4 +141,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated October 05, 2021
+Last updated October 06, 2021
