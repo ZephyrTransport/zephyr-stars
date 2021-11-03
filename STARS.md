@@ -28,8 +28,6 @@ in the first category.
   Open Matrix (OMX)
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
-- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (3 stars)  
-  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
@@ -44,6 +42,8 @@ in the first category.
   Public release version of the VisionEval framework
 - [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
   A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (2 stars)  
+  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
   aequilibrae - Python package for transportation modeling
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
@@ -142,4 +142,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated November 02, 2021
+Last updated November 03, 2021
