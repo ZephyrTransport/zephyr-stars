@@ -40,8 +40,6 @@ in the first category.
   Exploratory Modeling and Analysis Tool
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
-- [a-b-street/abstreet](https://www.github.com/a-b-street/abstreet) (2 stars)  
-  A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (2 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
@@ -142,4 +140,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated November 12, 2021
+Last updated November 13, 2021
