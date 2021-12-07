@@ -22,8 +22,6 @@ in the first category.
   An Open Platform for Population Synthesis
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
-- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
-  How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
   Open Matrix (OMX)
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
@@ -32,6 +30,8 @@ in the first category.
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
+- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
+  How to use Python for a variety of transportation modeling tasks
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
@@ -140,4 +140,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 06, 2021
+Last updated December 07, 2021
