@@ -54,7 +54,6 @@ in the first category.
   Data specification for travel forecasting cards in order to assess performance of travel forecasts 
 - [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
   Open Matrix API for R
-- [jiawlu/OSM2GMNS](https://www.github.com/jiawlu/OSM2GMNS) (2 stars)  
 - [jpn--/arrowmatrix](https://www.github.com/jpn--/arrowmatrix) (2 stars)  
   A matrix file format
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
@@ -140,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated March 07, 2022
+Last updated March 08, 2022
