@@ -57,8 +57,6 @@ in the first category.
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
   R interface to D3 chord diagrams
 - [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
-- [ODOT-PTS/GTFS-ride](https://www.github.com/ODOT-PTS/GTFS-ride) (2 stars)  
-  GTFS-ride is an open standard for storing and sharing fixed-route transit ridership data.
 - [replicahq/doppelganger](https://www.github.com/replicahq/doppelganger) (2 stars)  
   A Python package of tools to support population synthesizers
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
@@ -137,4 +135,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated March 11, 2022
+Last updated March 12, 2022
