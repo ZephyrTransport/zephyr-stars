@@ -18,16 +18,16 @@ in the first category.
   VisionEval Model System and Framework (formerly RSPM Framework)
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
-- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
-  An Open Platform for Population Synthesis
-- [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (4 stars)  
-  A collaborative, evolving, proposal to improve travel modeling research and practice
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
   Open Matrix (OMX)
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
+- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (3 stars)  
+  An Open Platform for Population Synthesis
+- [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (3 stars)  
+  A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
@@ -52,6 +52,8 @@ in the first category.
   Data specification for travel forecasting cards in order to assess performance of travel forecasts 
 - [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
   Open Matrix API for R
+- [joshchea/python-tdm](https://www.github.com/joshchea/python-tdm) (2 stars)  
+  Python modules for typical travel demand modeling calculations 
 - [jpn--/arrowmatrix](https://www.github.com/jpn--/arrowmatrix) (2 stars)  
   A matrix file format
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
@@ -93,6 +95,7 @@ The list of starred projects is based on these GitHub users.
 - [Brian Gregor (gregorbj)](https://www.github.com/gregorbj)
 - [Joel Freedman (jfdman)](https://www.github.com/jfdman)
 - [Julie Dunbar (jkpdunbar)](https://www.github.com/jkpdunbar)
+- [Joe Flood (JoeJimFlood)](https://www.github.com/JoeJimFlood)
 - [Josie Kressner (josiekre)](https://www.github.com/josiekre)
 - [Jeff Newman (jpn--)](https://www.github.com/jpn--)
 - [Krishnan Viswanathan (krishnan-viswanathan)](https://www.github.com/krishnan-viswanathan)
