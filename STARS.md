@@ -59,6 +59,8 @@ in the first category.
 - [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
   R interface to D3 chord diagrams
 - [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
+- [metrotransit/route-trends](https://www.github.com/metrotransit/route-trends) (2 stars)  
+  RShiny app to upload and analyze trend and seasonality of transit ridership data
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
 - [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
@@ -136,4 +138,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated April 13, 2022
+Last updated April 14, 2022
