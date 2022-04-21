@@ -12,7 +12,7 @@ in the first category.
 ## Zephyr Starred Projects
 - [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (7 stars)  
   An Open Platform for Activity-Based Travel Modeling
-- [tfresource/website](https://www.github.com/tfresource/website) (6 stars)  
+- [tfresource/tfresource-website](https://www.github.com/tfresource/tfresource-website) (6 stars)  
   Travel Forecasting Resource - website reboot
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (5 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
@@ -138,4 +138,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated April 20, 2022
+Last updated April 21, 2022
