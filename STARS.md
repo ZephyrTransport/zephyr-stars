@@ -52,6 +52,7 @@ in the first category.
   Data specification for travel forecasting cards in order to assess performance of travel forecasts 
 - [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
   Open Matrix API for R
+- [ipeaGIT/r5r](https://www.github.com/ipeaGIT/r5r) (2 stars)  
 - [joshchea/python-tdm](https://www.github.com/joshchea/python-tdm) (2 stars)  
   Python modules for typical travel demand modeling calculations 
 - [jpn--/arrowmatrix](https://www.github.com/jpn--/arrowmatrix) (2 stars)  
@@ -138,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated April 27, 2022
+Last updated April 28, 2022
