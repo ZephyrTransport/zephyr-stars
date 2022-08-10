@@ -20,8 +20,6 @@ in the first category.
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
-- [osPlanning/omx](https://www.github.com/osPlanning/omx) (4 stars)  
-  Open Matrix (OMX)
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (3 stars)  
@@ -34,6 +32,8 @@ in the first category.
   Larch: a Python tool for choice modeling
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
+- [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
+  Open Matrix (OMX)
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
   Map matching
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (3 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated August 09, 2022
+Last updated August 10, 2022
