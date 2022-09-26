@@ -45,7 +45,7 @@ in the first category.
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
   aequilibrae - Python package for transportation modeling
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
-  A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+  ⛔️ DEPRECATED See ageron/handson-ml3 instead. This project contains a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn, Keras, and TensorFlow.
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
   Attempting to make the Deep Learning Book easier to understand.
 - [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
@@ -139,4 +139,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated September 25, 2022
+Last updated September 26, 2022
