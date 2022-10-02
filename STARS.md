@@ -46,10 +46,15 @@ in the first category.
   aequilibrae - Python package for transportation modeling
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
   ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
+- [arteagac/xlogit](https://www.github.com/arteagac/xlogit) (2 stars)  
+  A Python package for GPU-accelerated estimation of mixed logit models. 
+- [asu-trans-ai-lab/DTALite-Classic-Edition](https://www.github.com/asu-trans-ai-lab/DTALite-Classic-Edition) (2 stars)  
+  DTALite-Classic-Edition (before adopting GMNS standard QVDF functions in 2020)
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
   Attempting to make the Deep Learning Book easier to understand.
 - [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
   Data specification for travel forecasting cards in order to assess performance of travel forecasts 
+- [EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model](https://www.github.com/EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model) (2 stars)  
 - [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
   Open Matrix API for R
 - [ipeaGIT/r5r](https://www.github.com/ipeaGIT/r5r) (2 stars)  
@@ -83,6 +88,7 @@ The list of starred projects is based on these GitHub users.
 - [Suzanne Childress (Ennazus)](https://www.github.com/Ennazus)
 - [Jonathan Ehrlich (JonathanEhrlichMC)](https://www.github.com/JonathanEhrlichMC)
 - [Vince Bernardin (VinceBernardin)](https://www.github.com/VinceBernardin)
+- [Xuesong (Simon) Zhou (asu-trans-ai-lab)](https://www.github.com/asu-trans-ai-lab)
 - [Alex Bettinardi (bettinardi)](https://www.github.com/bettinardi)
 - [Bhargava Sana (bhargavasana)](https://www.github.com/bhargavasana)
 - [Billy Charlton (billyc)](https://www.github.com/billyc)
@@ -99,6 +105,7 @@ The list of starred projects is based on these GitHub users.
 - [Joel Freedman (jfdman)](https://www.github.com/jfdman)
 - [Julie Dunbar (jkpdunbar)](https://www.github.com/jkpdunbar)
 - [Joe Flood (JoeJimFlood)](https://www.github.com/JoeJimFlood)
+- [Peiheng Li (jdlph)](https://www.github.com/jdlph)
 - [Josie Kressner (josiekre)](https://www.github.com/josiekre)
 - [Jeff Newman (jpn--)](https://www.github.com/jpn--)
 - [Krishnan Viswanathan (krishnan-viswanathan)](https://www.github.com/krishnan-viswanathan)
@@ -114,6 +121,7 @@ The list of starred projects is based on these GitHub users.
 - [Rick Donnelly (rickdonnelly)](https://www.github.com/rickdonnelly)
 - [Rosella Picado (rosellapicado)](https://www.github.com/rosellapicado)
 - [Scott Ramming (sramming)](https://www.github.com/sramming)
+- [Taehooie Kim (Taehooie)](https://www.github.com/Taehooie)
 - [Tom Rossi (tfrossi)](https://www.github.com/tfrossi)
 - [Timothy Brathwaite (timothyb0912)](https://www.github.com/timothyb0912)
 
