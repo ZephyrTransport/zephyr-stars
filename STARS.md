@@ -38,6 +38,8 @@ in the first category.
   Map matching
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (3 stars)  
   Exploratory Modeling and Analysis Tool
+- [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
+  Python library for discrete choice modeling
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
 - [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (2 stars)  
@@ -71,8 +73,6 @@ in the first category.
   DaySim Activity-Based Model
 - [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
   Making API calls to the StreetLight data platform using the R language
-- [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (2 stars)  
-  Python library for discrete choice modeling
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
   Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [wsp-sag/tcadr](https://www.github.com/wsp-sag/tcadr) (2 stars)  
@@ -147,4 +147,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated October 07, 2022
+Last updated October 08, 2022
