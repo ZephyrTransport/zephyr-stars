@@ -10,7 +10,7 @@ number of analytic transportation professionals) will tend to be
 in the first category.  
 
 ## Zephyr Starred Projects
-- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (7 stars)  
+- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (8 stars)  
   An Open Platform for Activity-Based Travel Modeling
 - [tfresource/tfresource-website](https://www.github.com/tfresource/tfresource-website) (6 stars)  
   Travel Forecasting Resource - website reboot
@@ -147,4 +147,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated October 20, 2022
+Last updated October 21, 2022
