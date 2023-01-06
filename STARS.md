@@ -18,6 +18,8 @@ in the first category.
   VisionEval Model System and Framework (formerly RSPM Framework)
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
+  Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (3 stars)  
@@ -36,8 +38,6 @@ in the first category.
   Open Matrix (OMX)
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
   Map matching
-- [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (3 stars)  
-  Exploratory Modeling and Analysis Tool
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
   Python library for discrete choice modeling
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
@@ -147,4 +147,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 05, 2023
+Last updated January 06, 2023
