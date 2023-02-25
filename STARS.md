@@ -75,6 +75,8 @@ in the first category.
   DaySim Activity-Based Model
 - [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
   Making API calls to the StreetLight data platform using the R language
+- [Triangle-Modeling-and-Analytics/TRMG2](https://www.github.com/Triangle-Modeling-and-Analytics/TRMG2) (2 stars)  
+  The second generation of the Triangle Regional Model
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
   Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [wsp-sag/tcadr](https://www.github.com/wsp-sag/tcadr) (2 stars)  
@@ -149,4 +151,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated February 24, 2023
+Last updated February 25, 2023
