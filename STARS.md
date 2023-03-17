@@ -18,6 +18,8 @@ in the first category.
   VisionEval Model System and Framework (formerly RSPM Framework)
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
+  How to use Python for a variety of transportation modeling tasks
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
@@ -30,8 +32,6 @@ in the first category.
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
   Larch: a Python tool for choice modeling
-- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (3 stars)  
-  How to use Python for a variety of transportation modeling tasks
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
@@ -151,4 +151,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated March 16, 2023
+Last updated March 17, 2023
