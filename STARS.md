@@ -10,7 +10,7 @@ number of analytic transportation professionals) will tend to be
 in the first category.  
 
 ## Zephyr Starred Projects
-- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (8 stars)  
+- [ActivitySim/activitysim](https://www.github.com/ActivitySim/activitysim) (9 stars)  
   An Open Platform for Activity-Based Travel Modeling
 - [tfresource/tfresource-website](https://www.github.com/tfresource/tfresource-website) (6 stars)  
   Travel Forecasting Resource - website reboot
@@ -18,20 +18,22 @@ in the first category.
   VisionEval Model System and Framework (formerly RSPM Framework)
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
+  An Open Platform for Population Synthesis
+- [jpn--/larch](https://www.github.com/jpn--/larch) (4 stars)  
+  Larch: a Python tool for choice modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
 - [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
   Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
-- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (3 stars)  
-  An Open Platform for Population Synthesis
+- [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (3 stars)  
+  aequilibrae - Python package for transportation modeling
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (3 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-- [jpn--/larch](https://www.github.com/jpn--/larch) (3 stars)  
-  Larch: a Python tool for choice modeling
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (3 stars)  
   Multi-Agent Transport Simulation
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
@@ -44,19 +46,21 @@ in the first category.
   Public release version of the VisionEval framework
 - [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (2 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
-- [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (2 stars)  
-  aequilibrae - Python package for transportation modeling
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
   ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [arteagac/xlogit](https://www.github.com/arteagac/xlogit) (2 stars)  
   A Python package for GPU-accelerated estimation of mixed logit models. 
 - [asu-trans-ai-lab/DTALite-Classic-Edition](https://www.github.com/asu-trans-ai-lab/DTALite-Classic-Edition) (2 stars)  
   DTALite-Classic-Edition (before adopting GMNS standard QVDF functions in 2020)
+- [bstabler/TransportationNetworks](https://www.github.com/bstabler/TransportationNetworks) (2 stars)  
+  Transportation Networks for Research
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
   Attempting to make the Deep Learning Book easier to understand.
 - [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
   Data specification for travel forecasting cards in order to assess performance of travel forecasts 
 - [EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model](https://www.github.com/EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model) (2 stars)  
+- [Fast-Trips/fast-trips](https://www.github.com/Fast-Trips/fast-trips) (2 stars)  
+  Dynamic transit assignment tool
 - [gregmacfarlane/ctpp_flows](https://www.github.com/gregmacfarlane/ctpp_flows) (2 stars)  
   CTPP Tract-based work flow data
 - [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
@@ -106,6 +110,7 @@ The list of starred projects is based on these GitHub users.
 - [Gregory Erhardt (gregerhardt)](https://www.github.com/gregerhardt)
 - [Greg Macfarlane (gregmacfarlane)](https://www.github.com/gregmacfarlane)
 - [Brian Gregor (gregorbj)](https://www.github.com/gregorbj)
+- [Jan Zill (janzill)](https://www.github.com/janzill)
 - [Joel Freedman (jfdman)](https://www.github.com/jfdman)
 - [Julie Dunbar (jkpdunbar)](https://www.github.com/jkpdunbar)
 - [Joe Flood (JoeJimFlood)](https://www.github.com/JoeJimFlood)
