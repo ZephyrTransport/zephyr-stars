@@ -38,8 +38,6 @@ in the first category.
   Multi-Agent Transport Simulation
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
   Open Matrix (OMX)
-- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (3 stars)  
-  Map matching
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
   Python library for discrete choice modeling
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
@@ -75,6 +73,8 @@ in the first category.
 - [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
 - [metrotransit/route-trends](https://www.github.com/metrotransit/route-trends) (2 stars)  
   RShiny app to upload and analyze trend and seasonality of transit ridership data
+- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
+  Map matching
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
   DaySim Activity-Based Model
 - [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
@@ -156,4 +156,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated May 04, 2023
+Last updated May 05, 2023
