@@ -75,6 +75,8 @@ in the first category.
 - [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
 - [metrotransit/route-trends](https://www.github.com/metrotransit/route-trends) (2 stars)  
   RShiny app to upload and analyze trend and seasonality of transit ridership data
+- [michelbierlaire/biogeme](https://www.github.com/michelbierlaire/biogeme) (2 stars)  
+  Biogeme is an open source freeware designed for the maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models. 
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
   Map matching
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
@@ -158,4 +160,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated May 25, 2023
+Last updated May 26, 2023
