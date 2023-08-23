@@ -16,12 +16,12 @@ in the first category.
   Travel Forecasting Resource - website reboot
 - [gregorbj/Archive-VisionEval](https://www.github.com/gregorbj/Archive-VisionEval) (5 stars)  
   VisionEval Model System and Framework (formerly RSPM Framework)
+- [jpn--/larch](https://www.github.com/jpn--/larch) (5 stars)  
+  Larch: a Python tool for choice modeling
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
   An Open Platform for Population Synthesis
-- [jpn--/larch](https://www.github.com/jpn--/larch) (4 stars)  
-  Larch: a Python tool for choice modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (4 stars)  
@@ -160,4 +160,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated August 22, 2023
+Last updated August 23, 2023
