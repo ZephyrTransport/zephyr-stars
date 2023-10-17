@@ -35,7 +35,7 @@ in the first category.
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (3 stars)  
   A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
-  Python for street networks. Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
+  OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
   Open Matrix (OMX)
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
@@ -160,4 +160,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated October 16, 2023
+Last updated October 17, 2023
