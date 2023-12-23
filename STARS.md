@@ -87,6 +87,8 @@ in the first category.
   The second generation of the Triangle Regional Model
 - [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
   Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+- [wsp-sag/network_wrangler](https://www.github.com/wsp-sag/network_wrangler) (2 stars)  
+  A Python Library for Managing Travel Model Network Scenarios
 - [wsp-sag/tcadr](https://www.github.com/wsp-sag/tcadr) (2 stars)  
   A library to read/write TransCAD binary files in R.
 
@@ -160,4 +162,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated December 22, 2023
+Last updated December 23, 2023
