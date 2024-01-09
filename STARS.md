@@ -30,6 +30,8 @@ in the first category.
   Exploratory Modeling and Analysis Tool
 - [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
   General Modeling Network Specification
+- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (3 stars)  
+  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (3 stars)  
   aequilibrae - Python package for transportation modeling
 - [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (3 stars)  
@@ -42,8 +44,6 @@ in the first category.
   Python library for discrete choice modeling
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
   Public release version of the VisionEval framework
-- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (2 stars)  
-  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
   ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [arteagac/xlogit](https://www.github.com/arteagac/xlogit) (2 stars)  
@@ -162,4 +162,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 08, 2024
+Last updated January 09, 2024
