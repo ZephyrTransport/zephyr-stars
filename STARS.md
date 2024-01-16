@@ -34,8 +34,6 @@ in the first category.
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
 - [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (3 stars)  
   aequilibrae - Python package for transportation modeling
-- [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (3 stars)  
-  A collaborative, evolving, proposal to improve travel modeling research and practice
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
 - [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
@@ -52,6 +50,8 @@ in the first category.
   DTALite-Classic-Edition (before adopting GMNS standard QVDF functions in 2020)
 - [BayAreaMetro/travel-model-one](https://www.github.com/BayAreaMetro/travel-model-one) (2 stars)  
   Travel Model One and Travel Model 1.5
+- [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (2 stars)  
+  A collaborative, evolving, proposal to improve travel modeling research and practice
 - [bstabler/TransportationNetworks](https://www.github.com/bstabler/TransportationNetworks) (2 stars)  
   Transportation Networks for Research
 - [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
@@ -162,4 +162,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated January 15, 2024
+Last updated January 16, 2024
