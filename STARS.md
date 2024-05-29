@@ -38,6 +38,8 @@ in the first category.
   A Python package for GPU-accelerated estimation of mixed logit models. 
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
   OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
+- [osPlanning/omx](https://www.github.com/osPlanning/omx) (3 stars)  
+  Open Matrix (OMX)
 - [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
   Python library for discrete choice modeling
 - [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
@@ -75,8 +77,6 @@ in the first category.
   RShiny app to upload and analyze trend and seasonality of transit ridership data
 - [michelbierlaire/biogeme](https://www.github.com/michelbierlaire/biogeme) (2 stars)  
   Biogeme is an open source freeware designed for the maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models. 
-- [osPlanning/omx](https://www.github.com/osPlanning/omx) (2 stars)  
-  Open Matrix (OMX)
 - [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
   Map matching
 - [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
@@ -164,4 +164,4 @@ Zephyr members are invited to contribute in two ways:
 
 
 
-Last updated May 28, 2024
+Last updated May 29, 2024
