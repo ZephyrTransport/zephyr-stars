@@ -58,7 +58,10 @@ def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 		for username, realname in known_users.items():
 			print(f"- [{realname} ({username})](https://www.github.com/{username})", file=f)
 		print(CONTRIBUTING, file=f)
-		print(time.strftime("\n\nLast updated %B %d, %Y"), file=f)
+		
+		# no longer printing date, so git history isn't riddled with pointless commits.
+		# instead, the github action script will append this if there are any modifications
+		# print(time.strftime("\n\nLast updated %B %d, %Y"), file=f)
 
 README = """\
 # Zephyr Stars
@@ -92,6 +95,7 @@ Zephyr members are invited to contribute in two ways:
    entirely on [GitHub.com](https://www.github.com) and you don’t even need to download or 
    install anything (although you’ll certainly want to eventually if you want to really 
    use Git).
+
 
 """
 
