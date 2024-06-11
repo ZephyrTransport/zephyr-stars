@@ -22,6 +22,8 @@ in the first category.
   A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
 - [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
   An Open Platform for Population Synthesis
+- [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (4 stars)  
+  aequilibrae - Python package for transportation modeling
 - [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
   How to use Python for a variety of transportation modeling tasks
 - [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (4 stars)  
@@ -32,8 +34,6 @@ in the first category.
   General Modeling Network Specification
 - [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (3 stars)  
   Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
-- [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (3 stars)  
-  aequilibrae - Python package for transportation modeling
 - [arteagac/xlogit](https://www.github.com/arteagac/xlogit) (3 stars)  
   A Python package for GPU-accelerated estimation of mixed logit models. 
 - [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
